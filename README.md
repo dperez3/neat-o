@@ -11,7 +11,9 @@ Neat tech I like.
 ## Animation
 - [Flare](https://www.2dimensions.com/about-flare) *"Bring Your Apps and Games to Life with Real-Time Animation"*
 
-## Hosting
+## Hosting / Static Site Generators
+- [StaticGen](https://www.staticgen.com/)
+- [Hugo](https://gohugo.io/)
 - [Netlify](https://www.netlify.com/)
 - [Gatsby](https://www.gatsbyjs.org/)
 
