@@ -28,3 +28,6 @@ Neat tech I like.
 - [Flutter](https://flutter.dev/)
 - [Ionic](https://ionicframework.com/)
 - [React Native](https://facebook.github.io/react-native/)
+
+## Misc
+- [For The Badge](https://forthebadge.com/)
